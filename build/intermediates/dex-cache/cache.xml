@@ -1,2 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_701e8e8ff96c529cc115f93543622d759a4ba3e6\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_56245c1040cb8dbebfdede2dba050cf961d80d29\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_db4b4e5f61a24fdc37dbf6abbe64c9cb9bfab266\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d8caffb00311e154b44c97a84d18448a58b5f107\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05c0a12edfda747d7cb6640a8ea973b7a511d6ab">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e680ba03da2a6d8095d60b63c6a5530be3e2042e\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_33533a8949300700f2d0f85c20f6bc6c530e3d76\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_dd461c09f4485cbe0485e45637a3aa3cba73573b\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0f17d7e32e61a3016b8e8995afe2ee6886fd7151\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_fd5f35fd7385ba9fdfdf7e1ab705a62475780f10\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d0691fb6d42d304b9e81160f5b5b299fe42f70e7\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_f0ed9b791701c7d796e6c34a9d82d015f44ffeb8\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e398cbff2be35683cab20e1292aa19a8fb55285f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Naman\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_4622726d6921203d5632f6dbe9f187eaab6eed8b\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_df7b9db876cba0387f5576bda40140ba93c96a52\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_c2a697c21e528124abb22d99863179fb6e52d051\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_0cca89a7933385bf18b53375a681b5f72bbb85c2\classes.dex" />
+    </item>
+    <item
+        jar="F:\github forked repos\shashank\callVib\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ceb98ba50306b8d70979165eb6c4ef40b60a639d">
+        <dex dex="F:\github forked repos\shashank\callVib\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4195313db167d445d6d943775ae304e784e80650\classes.dex" />
+    </item>
+
+</items>
